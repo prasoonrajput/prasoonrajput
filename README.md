@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.gifer.com/bJk.gif)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.gifer.com/bJk.gif)
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div> 
