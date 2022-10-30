@@ -1,9 +1,6 @@
-<header>
-<div id="header" align="center">
- <img src="https://giphy.com/embed/FoVzfcqCDSb7zCynOp" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/Giflytics-abjahanbin-FoVzfcqCDSb7zCynOp">via GIPHY</a></p>
-</div></header>
+
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" height="200px" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" height="1250%" />
 </div> 
 <h1 align="center">Hi 👋, I'm Prasoon Rajput</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
