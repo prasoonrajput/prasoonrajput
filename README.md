@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" height="1250%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 920px" , height="220px" />
 </div> 
 <h1 align="center">Hi 👋, I'm Prasoon Rajput</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
