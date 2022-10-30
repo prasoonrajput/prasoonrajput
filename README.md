@@ -19,11 +19,13 @@
 <p align="left">
 <a href="https://twitter.com/prasoonrajput42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prasoonrajput42" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prasoon-rajput-976873209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasoon-rajput-976873209" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc5w0ao3uxqp7q3xwuvzczxg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc5w0ao3uxqp7q3xwuvzczxg" height="30" width="40" /></a>
+<a href="https://codesandbox.com/prasoonrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="prasoonrajput" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/prasoon rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prasoon rajput" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/prasoonrajput" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prasoonrajput" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/prasoonrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prasoonrajput" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/prasoonrajput/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/prasoonrajput/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prasoonrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prasoonrajput" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/prasoonrajput4218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/prasoonrajput4218/" height="30" width="40" /></a>
+<a href="https://discord.gg/Rajput4218#7342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rajput4218#7342" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
