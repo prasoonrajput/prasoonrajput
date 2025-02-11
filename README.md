@@ -3,10 +3,10 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 920px" , height="300px" />
 </div> 
 <h1 align="center">Hi 👋, I'm Prasoon Rajput</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 💫 About Me:
-🔭 I’m currently working on Live crypto currency price website<br><br>🌱 I’m currently learning Java Script, React, Solidity<br><br>👨‍💻 All of my projects are available at cryptoverseindia.netlify.com<br><br>💬 Ask me about Web Development ,Blockchain ,Smart Contract<br><br>📫 How to reach me prasoonrajput4218@gmail.com
+🔭 I’m a backend devloper <br><br>🌱 I’m currently learning AI/ML and Gen AI<br><br>👨‍💻 All of my projects are available at prasoonrajput.netlify.app<br><br>📫 How to reach me prasoonrajput4218@gmail.com
 
 
 ## 🌐 Socials:
